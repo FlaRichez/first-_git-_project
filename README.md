@@ -1,1 +1,1 @@
-# first-_git-_project
+first git project
